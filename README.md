@@ -4,7 +4,7 @@ My VIM config preferences.
 
 ## Getting Started
 
-Assuming vim is installed..
+#### Assuming vim is installed..
 ```
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
