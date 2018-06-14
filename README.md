@@ -4,18 +4,20 @@ My VIM config preferences.
 
 ## Getting Started
 
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+Assuming vim is installed..
 ```
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+
 sudo apt-get install exuberant-ctags
 ```
 
-From terminal you can run 
+#### Install the plugins, from terminal run:
+ 
 ```
 vim +PluginInstall +qall.
 ```
 
-### OR
-
+##### OR
 
 Open Vim, then 
 ```
