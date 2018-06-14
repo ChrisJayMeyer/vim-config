@@ -10,7 +10,7 @@ sudo apt-get install exuberant-ctags
 ```
 
 From terminal you can run 
-
+```
 vim +PluginInstall +qall.
 ```
 
@@ -18,6 +18,6 @@ vim +PluginInstall +qall.
 
 
 Open Vim, then 
-
+```
 :PluginInstall
 ```
