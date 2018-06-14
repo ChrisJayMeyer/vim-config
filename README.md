@@ -17,9 +17,8 @@ sudo apt-get install exuberant-ctags
 vim +PluginInstall +qall.
 ```
 
-##### OR
+###### OR open Vim, then in normal mode run the following. 
 
-Open Vim, then 
 ```
 :PluginInstall
 ```
